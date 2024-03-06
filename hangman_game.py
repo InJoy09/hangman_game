@@ -1,6 +1,7 @@
 
 # I use Tabs
 # You can use cheat 777
+# To make the animation work, you need to run in the terminal !!!
 
 import os
 from random import choice
